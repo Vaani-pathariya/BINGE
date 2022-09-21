@@ -1,3 +1,12 @@
+# THE BINGE APP
+### This is a react app where you can watch your favourite movies.
+#### It consisits of a searching function throught external API connectivity
+PREFACE
+<hr>
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/94799887/191513306-d57c2460-0f7a-4f00-8424-e920c32ff4bf.png">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
